@@ -33,6 +33,6 @@ MonoBehaviour:
   RunInBackground: 1
   StartInOfflineMode: 0
   RpcList: []
-  DisableAutoOpenWizard: 0
+  DisableAutoOpenWizard: 1
   ShowSettings: 1
   DevRegionSetOnce: 0
